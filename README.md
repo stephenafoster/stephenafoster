@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenafoster
-- 👀 I’m interested in Cybersecurity, Intelligence, Investigations, and security Risk Management.
-- 🌱 I’m currently earning my Google Cybersecurity Professional Certificate and learning SQL.
+- 👀 I’m interested in Cybersecurity, Intelligence, Investigations, and Security Risk Management.
+- 🌱 I’m currently earning my Google Cybersecurity Professional Certificate and learning programming languages (SQL and Python). 
 - 💞️ I’m looking to collaborate on Cybersecurity learning, Intelligence, and Investigations projects.
 - 😄 Pronouns: He/Him
 
